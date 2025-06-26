@@ -1,6 +1,6 @@
 # 🛍️ E-Commerce Sales Analysis Dashboard (Excel)
 
-![E-Commerce Dashboard](e-commerce-dashboard.png)
+![E-Commerce Dashboard](dashboard-project-1.png)
 
 
 
