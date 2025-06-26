@@ -1,6 +1,7 @@
 # 🛍️ E-Commerce Sales Analysis Dashboard (Excel)
 
-![Dashboard Preview](images/dashboard-preview.png)
+![E-Commerce Dashboard](e-commerce-dashboard.png)
+
 
 ## 📝 Project Description  
 This project presents an interactive **E-Commerce Sales Analysis Dashboard** built using **Microsoft Excel**, designed to uncover insights from transactional sales data of a fictional superstore. The goal is to help business stakeholders identify patterns, trends, and areas of opportunity by analyzing product performance, regional impact, customer segmentation, and overall profitability.
